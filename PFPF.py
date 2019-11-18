@@ -31,7 +31,7 @@ while True:
             sleep(1)
 
         print("Responda lo mas rápido posible")
-        jugar= "si"
+        
         for i in range(0,2):
             inicio=time.time()
 
