@@ -16,7 +16,12 @@ for i in range(0,5):
 
 while True:
     de=input("¿Desea jugar?:  (si) (no) = ")
-    if de == "si":
+    if de =="no":
+        print("\t☝ THANKS (｡◕‿◕｡)☝")
+        print(" Hasta luego, regresa pronto ")
+        break
+
+    elif de == "si":
         print("Resuelva las operaciones en el menor tiempo posible")
         print("Comienza el juego ")
 
@@ -147,7 +152,7 @@ while True:
             numazar=random.randint(1,10)
             numazar1=random.randint(1,10)
             numazar2=random.randint(1,10)
-            r=float(input("¿ Cuánto es: "+str(numazar2)+"*"+str(numazar)+"+"+str(numazar1)+ " ? = "))
+            r=int(input("¿ Cuánto es: "+str(numazar2)+"*"+str(numazar)+"+"+str(numazar1)+ " ? = "))
             final=time.time()
             tiempo=round(final-inicio,0)
             r1=numazar2*numazar+numazar1
@@ -376,9 +381,6 @@ while True:
              
                 
             break
-                            
-    else:
-        print("\t☝ THANKS (｡◕‿◕｡)☝")
-        print(" Hasta luego, regresa pronto ")
-   
-    break
+
+        break
+    
