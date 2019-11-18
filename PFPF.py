@@ -55,7 +55,6 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
                 
             
                 break
@@ -82,7 +81,6 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
     
             
                 break
@@ -108,7 +106,7 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
+    
 
                 break
 
@@ -134,7 +132,6 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
                 
                 break
         
@@ -169,7 +166,7 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
+   
                 
                 
                 break
@@ -224,7 +221,7 @@ while True:
                 print(" Respuesta incorrecta  ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
+ 
                 
                 
                 break
@@ -250,7 +247,7 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
+   
                 
                 
                 break
@@ -289,7 +286,7 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
+  
           
                 
                 break
@@ -318,7 +315,7 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
+  
              
                 break
                 
@@ -347,7 +344,7 @@ while True:
                print(" Respuesta incorrecta ")
                print("\tGAME OVER ")
                print("\t☝ THANKS (｡◕‿◕｡)☝")
-               print(" Hasta luego, regresa pronto   ")
+       
 
                break
 
@@ -377,7 +374,7 @@ while True:
                 print(" Respuesta incorrecta ")
                 print("\tGAME OVER ")
                 print("\t☝ THANKS (｡◕‿◕｡)☝")
-                print(" Hasta luego, regresa pronto   ")
+     
              
                 
             break
